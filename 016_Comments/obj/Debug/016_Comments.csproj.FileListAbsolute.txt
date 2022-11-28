@@ -1,0 +1,8 @@
+C:\SRC\CSharp\016_Comments\016_Comments\bin\Debug\016_Comments.exe.config
+C:\SRC\CSharp\016_Comments\016_Comments\bin\Debug\016_Comments.exe
+C:\SRC\CSharp\016_Comments\016_Comments\bin\Debug\016_Comments.pdb
+C:\SRC\CSharp\016_Comments\016_Comments\obj\Debug\016_Comments.csproj.AssemblyReference.cache
+C:\SRC\CSharp\016_Comments\016_Comments\obj\Debug\016_Comments.csproj.SuggestedBindingRedirects.cache
+C:\SRC\CSharp\016_Comments\016_Comments\obj\Debug\016_Comments.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\016_Comments\016_Comments\obj\Debug\016_Comments.exe
+C:\SRC\CSharp\016_Comments\016_Comments\obj\Debug\016_Comments.pdb
